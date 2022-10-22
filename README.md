@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GraysonWritesCode
+- 👀 I’m interested in Unity Coding, Unreal Engine Coding, and Blender Sculpting.
+- 🌱 I’m currently learning how to code with AI
+- 💞️ I’m looking to collaborate on unity.
+- 📫 To reach me e-mail me at graysonnicholas29@gmail.com.
